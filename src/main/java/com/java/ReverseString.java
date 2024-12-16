@@ -11,7 +11,7 @@ public class ReverseString {
 //		}		
 //		System.out.println(rev);	
 		
-		StringBuffer sf = new StringBuffer(s);
-		System.out.println(sf.reverse());
+		StringBuffer sb = new StringBuffer(s);
+		System.out.println(sb.reverse());
 	}
 }

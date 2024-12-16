@@ -22,6 +22,4 @@ public class OverloadMainMethod {
 	public static void main(int a, int b) {
 		System.out.println("main method 4");
 	}
-
-
 }

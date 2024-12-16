@@ -10,9 +10,9 @@ public abstract class Bank {
 	//Partial abstraction
 	//hiding the implementation logic is called abstraction
 	//We can have multiple abstract methods and multiple non-abstarct methods
-	//We should have at least one abstarct method
+	//We should have at least one abstract method
 	
-	public abstract void loan(); //abstrct method no method body
+	public abstract void loan(); //abstract method no method body
 	
 	public void credit() {
 		System.out.println("Bank-- credit"); //non-abstract method with body
