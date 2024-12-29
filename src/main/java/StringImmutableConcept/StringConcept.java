@@ -1,4 +1,4 @@
-package StringConcept;
+package StringImmutableConcept;
 
 public class StringConcept {
 	public static void main(String[] args) {
